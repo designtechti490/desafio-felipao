@@ -14,7 +14,7 @@ while (vitorias < 0 || derrotas < 0) {
 
 while (vitorias >= 0 && derrotas >= 0) {
   console.log(
-    `O Herói tem de saldo de ${saldoDeRankeadas} e está no nível de ${classifNivelJogador}`,
+    `O Herói tem saldo de ${saldoDeRankeadas} e está no nível de ${classifNivelJogador}`,
   );
   break;
 }
